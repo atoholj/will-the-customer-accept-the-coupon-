@@ -12,6 +12,6 @@ This project analyzes survey data to explore what factors influence whether a cu
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
-
+- colab
 This is part of Practical Application 1 for program completion.
 
